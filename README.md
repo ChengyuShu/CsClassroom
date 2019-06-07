@@ -10,7 +10,7 @@ Google Classroom 是本应用的创作灵感。它可以让老师自由地发布
 1. iOS：将于MIT App Inventor的iOS版本发布后发布
 2. Windows，macOS：正在开发英文版（基于python，而python不支持显示中文，在大多数电脑上会显示乱码）
 ## IV. 下载地址
-最新版本
+最新版本 Latest Version [蓝奏云 lanzous.com](https://www.lanzous.com/b758209)
 教师：0.0.1 Build 8-第一个公开版本
 学生：0.0.1 Build 3-第一个公开版本
 其他版本请前往下载栏目下载。
