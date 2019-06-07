@@ -15,7 +15,7 @@ Google Classroom 是本应用的创作灵感。它可以让老师自由地发布
 学生：0.0.1 Build 3-第一个公开版本
 其他版本请前往下载栏目下载。
 # V. 联系我
-QQ：2763790031
-微信：shuchengyu427
-twitter：@chengyu_shu
-邮箱： qq2763790031@icloud.com
+QQ：2763790031；
+微信：shuchengyu427；
+twitter：@chengyu_shu；
+邮箱： qq2763790031@icloud.com。
