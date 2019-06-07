@@ -23,6 +23,6 @@ Subsitude for Google Classroom in China mainland.
 1) 0.0.1 Build 3-第一个公开版本 First publish version ZH/CN
 ## V. 联系我 Contact me
 #### QQ：2763790031；
-#### 微信：shuchengyu427；
+#### 微信 WeChat：shuchengyu427；
 #### twitter：@chengyu_shu；
-#### 邮箱： qq2763790031@icloud.com。
+#### 邮箱 Email： qq2763790031@icloud.com。
