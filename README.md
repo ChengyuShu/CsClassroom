@@ -21,7 +21,6 @@ Subsitude for Google Classroom in China mainland.
 1) 0.0.1 Build 8-第一个公开版本 First public version ZH/CN
 #### 学生 Student：
 1) 0.0.1 Build 3-第一个公开版本 First publish version ZH/CN
-其他版本请前往下载栏目下载。
 ## V. 联系我
 #### QQ：2763790031；
 #### 微信：shuchengyu427；
