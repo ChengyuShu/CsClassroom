@@ -17,12 +17,12 @@ Subsitude for Google Classroom in China mainland.
 3. 安卓英文版：预计于九月之前发布 Android version in English: Will be published before September.
 ## IV. 下载地址 Download
 ### 最新版本 Latest Version [蓝奏云 lanzous.com](https://www.lanzous.com/b758209)
-#### 教师 Teacher：
+#### 1. 教师 Teacher：
 1) 0.0.1 Build 8-第一个公开版本 First public version ZH/CN
-#### 学生 Student：
+#### 2. 学生 Student：
 1) 0.0.1 Build 3-第一个公开版本 First publish version ZH/CN
 ## V. 联系我 Contact me
-#### QQ：2763790031；
-#### 微信 WeChat：shuchengyu427；
-#### twitter：@chengyu_shu；
-#### 邮箱 Email： qq2763790031@icloud.com。
+#### QQ：2763790031
+#### 微信 WeChat：shuchengyu427
+#### twitter：@chengyu_shu
+#### 邮箱 Email： qq2763790031@icloud.com
